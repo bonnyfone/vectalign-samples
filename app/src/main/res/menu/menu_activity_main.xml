@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".ActivityMainActivity">
+    <item android:id="@+id/action_github" android:title="@string/menu_github" app:showAsAction="never" />
+    <item android:id="@+id/action_droid_to_apple" android:title="@string/menu_droid_to_apple" app:showAsAction="never" />
+    <item android:id="@+id/action_cart_to_droid" android:title="@string/menu_cart_to_droid" app:showAsAction="never" />
+    <item android:id="@+id/action_wifi_to_retwwet" android:title="@string/menu_wifi_to_retweet" app:showAsAction="never" />
+    <item android:id="@+id/action_icons" android:title="@string/menu_icons" app:showAsAction="never" />
+    <item android:id="@+id/action_heart" android:title="@string/menu_heart_to_twitter" app:showAsAction="never" />
+</menu>

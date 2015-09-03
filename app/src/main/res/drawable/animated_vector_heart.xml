@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/svg_heart">
+
+    <target
+        android:name="rotationGroup"
+        android:animation="@anim/rotate_b_to_a" />
+
+    <target
+        android:name="v"
+        android:animation="@anim/morph_heart_to_twitter" />
+
+</animated-vector>

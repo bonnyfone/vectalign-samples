@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/svg_droid_for_apple">
+
+
+    <target
+        android:name="v"
+        android:animation="@anim/morph_droid_to_apple" />
+
+</animated-vector>
