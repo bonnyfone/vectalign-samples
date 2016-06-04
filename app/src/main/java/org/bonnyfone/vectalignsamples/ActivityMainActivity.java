@@ -69,6 +69,26 @@ public class ActivityMainActivity extends AppCompatActivity {
                 swapView(createMorphableView(R.drawable.animated_vector_wifi, R.drawable.animated_vector_retweet, Color.parseColor("#607D8B")));
                 break;
 
+            case R.id.action_base:
+                swapView(createMorphableView(R.drawable.strategy_base_animated_vector_drawable_start_to_end, R.drawable.strategy_base_animated_vector_drawable_end_to_start, Color.parseColor("#607D8B")));
+                break;
+
+            case R.id.action_linear:
+                swapView(createMorphableView(R.drawable.strategy_linear_animated_vector_drawable_start_to_end, R.drawable.strategy_linear_animated_vector_drawable_end_to_start, Color.parseColor("#01579B")));
+                break;
+
+            case R.id.action_sub_base:
+                swapView(createMorphableView(R.drawable.strategy_sub_base_animated_vector_drawable_start_to_end, R.drawable.strategy_sub_base_animated_vector_drawable_end_to_start, Color.parseColor("#558B2F")));
+                break;
+
+            case R.id.action_sub_linear:
+                swapView(createMorphableView(R.drawable.strategy_sub_linear_animated_vector_drawable_start_to_end, R.drawable.strategy_sub_linear_animated_vector_drawable_end_to_start, Color.parseColor("#E65100")));
+                break;
+
+            // Add your test here!
+            //case R.id.action_yout_morph:
+            //    swapView(createMorphableView(R.drawable.vectalign_animated_vector_drawable_start_to_end, vectalign_animated_vector_drawable__end_to_start, Color.parseColor("#E65100")));
+            //    break;
         }
     }
 

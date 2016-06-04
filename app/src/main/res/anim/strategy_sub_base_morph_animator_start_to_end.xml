@@ -1,0 +1,10 @@
+ <set xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto">
+     <objectAnimator
+         android:duration="2000"
+         android:propertyName="pathData"
+         android:valueFrom="M 366.64407,65.08474 L 295.25723,225.79703 L 469.14417,252.02396 L 294.26984,270.55728 L 358.5001,434.26126 L 255.0126,292.0823 L 145.35594,429.55933 L 216.74277,268.84705 L 42.855843,242.62012 L 217.73016,224.08678 L 153.49991,60.38282 L 256.9874,202.56177 L 366.64407,65.08474 "
+         android:valueTo="M 91.09553,384.35547 L 91.09553,384.35547 L 91.09553,384.35547 L 91.09553,384.35547 L 91.09553,384.35547 L 254.23312,110.62095 L 254.23312,110.62095 L 254.23312,110.62095 L 254.23312,110.62095 L 254.23312,110.62095 L 254.23312,110.62095 L 405.71802,386.1926 L 91.09553,384.35547 "
+         app:vc_valueType="pathType"
+         android:valueType="pathType"/>
+ </set>

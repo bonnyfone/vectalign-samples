@@ -7,4 +7,9 @@
     <item android:id="@+id/action_wifi_to_retwwet" android:title="@string/menu_wifi_to_retweet" app:showAsAction="never" />
     <item android:id="@+id/action_icons" android:title="@string/menu_icons" app:showAsAction="never" />
     <item android:id="@+id/action_heart" android:title="@string/menu_heart_to_twitter" app:showAsAction="never" />
+    <item android:id="@+id/action_base" android:title="@string/morph_strategy_base" app:showAsAction="never" />
+    <item android:id="@+id/action_linear" android:title="@string/morph_strategy_linear" app:showAsAction="never" />
+    <item android:id="@+id/action_sub_base" android:title="@string/morph_strategy_sub_base" app:showAsAction="never" />
+    <item android:id="@+id/action_sub_linear" android:title="@string/morph_strategy_sub_linear" app:showAsAction="never" />
+
 </menu>
